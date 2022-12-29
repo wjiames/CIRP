@@ -21,4 +21,4 @@ Both feature-based and data-based XAI are implemented in this program. Specifica
 <p align="center"> Figure 3. Model performance with high-value data VS low-value data  </p>  
 
 ## Notice for running code
-Please download [saved variables value](https://github.com/wjiames/CIRP/tree/main/Saved%20data%20value) and put them into correct path.
+Please download [Saved variables value](https://github.com/wjiames/CIRP/tree/main/Saved%20data%20value) and put them into correct path.
