@@ -19,3 +19,6 @@ Both feature-based and data-based XAI are implemented in this program. Specifica
 <img width="520" alt="mode performance-scale down" src="https://user-images.githubusercontent.com/103876273/209777537-a0d45f56-e3cd-4c73-aca1-b55182420e3f.png">
 </div>
 <p align="center"> Figure 3. Model performance with high-value data VS low-value data  </p>  
+
+## Notice for running code
+Please download generated variable value, otherwise it would wait some time to run through the program.
